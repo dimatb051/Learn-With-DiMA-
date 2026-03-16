@@ -26,11 +26,14 @@ public class PrimeChecker {
 
     // Then the program will continue to the second part (the method)
     public static boolean isPrime(int n) {
-        if (n <= 1) return false; // Fixed: removed the semicolon
+        if (n <= 1) 
+          return false; 
         
-        if (n == 2) return true;
+        if (n == 2)
+          return true;
 
-        if (n % 2 == 0) return false;
+        if (n % 2 == 0) 
+          return false;
       
         // and finally it's a for loop to check other numbers!
         for (int i = 3; i * i <= n; i += 2) {
