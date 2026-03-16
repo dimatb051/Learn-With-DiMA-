@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// Checking if a number is even or odd by using if statement
+// checking if a number is even or odd by using if statement
 public class EvenChecker {
 public static void main(String[] args) {
 Scanner scanner = new Scanner(System.in);
