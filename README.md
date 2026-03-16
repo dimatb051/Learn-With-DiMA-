@@ -1,13 +1,13 @@
 # Learn-With-DiMA-
-Together , we can learn JAVA with small steps!
+Together, we can learn JAVA with small steps!
 
-My Java Learning Journey
-This is a personal repo where I’m documenting my progress while learning Java from zero ,and the "main goal" here is to get comfortable with the core syntax and logic before deep diving into Object-Oriented Programming (OOP).
+# My Java Learning Journey
+This is a personal repo where I’m documenting my progress while learning Java from zero, and the "main goal" here is to get comfortable with the core syntax and logic before deep diving into Object-Oriented Programming (OOP).
 
 # What I've covered so far?
 I've been focusing on the building blocks of the language:
 
-[ّ  Variablesّ  -ّ Scannerّ  -ّ Conditionalsّ  -ّ Methodsّ  ]
+[`Variables` — `Scanner` — `Conditionals` — `Methods`]
 
 # Programs in this repository
 Here are the small projects I've built to practice these concepts:
@@ -21,10 +21,10 @@ Here are the small projects I've built to practice these concepts:
 # How to Run?
 To compile and run any of these files, use the following commands in your terminal:
 
-Compile:
-javac FileName.java
+*Compile:*
+`javac FileName.java`
 
-Run:
-java FileName
+*Run:*
+`java FileName`
 
-I'll keep updating this as I learn more!
+**I'll keep updating this as I learn more!**
